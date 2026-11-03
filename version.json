@@ -1,0 +1,6 @@
+{
+  "version": "2.5.2",
+  "releaseDate": "2026-11-03",
+  "downloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Tutor_Update_v2.5.2.zip",
+  "changelog": "- Sửa triệt để lỗi kẹt màn hình điểm danh học sinh.\n- Thêm nút tự chọn thư mục lưu bài nộp về máy Giáo viên (Đổi sang ổ D, E,...).\n- Tối ưu dung lượng bộ cài đặt siêu nhẹ (giảm gần 50MB).\n- Bổ sung tính năng tự động cập nhật 1-Click trực tiếp từ trong phần mềm.\n- Thiết kế lại giao diện kích hoạt bản quyền chuyên nghiệp, bảo mật cao."
+}
