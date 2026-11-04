@@ -1,6 +1,11 @@
 {
-  "version": "2.5.3",
-  "releaseDate": "2026-11-03",
-  "downloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Tutor_Update_v2.5.2.zip",
-  "changelog": "- Sửa triệt để lỗi kẹt màn hình điểm danh học sinh.\n- Thêm nút tự chọn thư mục lưu bài nộp về máy Giáo viên (Đổi sang ổ D, E,...).\n- Tối ưu dung lượng bộ cài đặt siêu nhẹ (giảm gần 50MB).\n- Bổ sung tính năng tự động cập nhật 1-Click trực tiếp từ trong phần mềm.\n- Thiết kế lại giao diện kích hoạt bản quyền chuyên nghiệp, bảo mật cao."
+  "version": "2.5.6",
+  "releaseDate": "2026-11-04",
+  "downloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Tutor_Update_v2.5.6.zip",
+  "studentDownloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Student_Update_v2.5.6.zip",
+  "linuxStudentDebUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/netlaps-student_2.5.6_amd64.deb",
+  "linuxStudentTarUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/netlaps-student-linux-x64.tar.gz",
+  "linuxTeacherDebUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/netlaps-teacher_2.5.6_amd64.deb",
+  "linuxTeacherTarUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/netlaps-teacher-linux-x64.tar.gz",
+  "changelog": "- Cập nhật từ xa toàn diện cho máy Linux / Ubuntu đứng từ máy chủ Giáo viên: Tự động tải, cài đặt ngầm không cần chạm vào máy học sinh và khởi động lại dịch vụ ngay lập tức.\n- Hỗ trợ cả máy Giáo viên chạy Windows lẫn Giáo viên chạy Ubuntu để đẩy lệnh nâng cấp đến toàn bộ máy học sinh Ubuntu.\n- Khắc phục toàn diện theo dõi phòng máy lớn: Đảm bảo giám sát mượt mà từ máy thứ 49 trở đi (hỗ trợ phòng máy lên tới 150+ máy).\n- Tự động co giãn sơ đồ bố trí phòng máy (Seating Plan Canvas): Hiển thị đầy đủ, trực quan mọi vị trí bàn máy kèm thanh cuộn mượt mà, hỗ trợ sắp xếp thích ứng 8-10 cột.\n- Cơ chế Failsafe tự động giải phóng máy con: Khi máy chủ giáo viên tắt hoặc mất kết nối, toàn bộ máy học sinh tự động giải phóng màn hình khóa và chuột/phím ngay lập tức, không lo bị kẹt.\n- Nhận diện và liên kết tự động máy học sinh sau khi khởi động lại (Reboot Reconnection): Tự động khớp nối theo SeatCode/MachineName, loại bỏ hiện tượng máy con bị phân tách hoặc mất nhận diện khi restart máy.\n- Chế độ Thanh công cụ Học sinh bí mật theo lệnh Giáo viên: Mặc định luôn ẩn hoàn toàn trên máy học sinh, chỉ xuất hiện khi Giáo viên phát lệnh Bật thanh công cụ trên console."
 }
