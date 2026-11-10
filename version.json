@@ -1,7 +1,0 @@
-{
-  "version": "2.6.3",
-  "releaseDate": "2026-11-06",
-  "downloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Tutor_Update_v2.6.3.zip",
-  "studentDownloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Student_Update_v2.6.3.zip",
-  "changelog": "Bản cập nhật lớn v2.6.3:\n• Siêu tối ưu hiệu năng cho máy trạm Học sinh cấu hình yếu (CPU < 0.2%, tái sử dụng bộ đệm RAM chụp màn hình, chạy ưu tiên thấp không gây giật lag)\n• Bổ sung nút [🖼️ Đổi hình nền] trực tiếp trên thanh công cụ Điều khiển phòng máy (1-Click đổi hình nền toàn bộ phòng máy)\n• Khắc phục triệt để lỗi học sinh vẫn mở được Task Manager trên Windows 10/11 (khóa Registry DisableTaskMgr + đóng cửa sổ TaskManagerWindow tức thì)\n• Khắc phục lỗi mất kết nối khi Đẩy cấu hình hàng loạt (Mass Config Push) đổi Khóa bảo mật phòng & khởi động lại máy trạm\n• Tự động đồng bộ mật khẩu phòng (Auto-Heal RoomSecret) khi máy Học sinh cùng mã phòng LAB kết nối tới Giáo viên\n• Sửa lỗi cài đặt gói .deb trên Ubuntu Linux (chuẩn hóa phân quyền 0755 cho dpkg/apt)\n• Nâng cấp tính năng Cập nhật Học sinh qua mạng LAN hoàn toàn tự động ngầm (Zero-Touch, không hỏi UAC)"
-}
