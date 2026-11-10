@@ -1,0 +1,7 @@
+{
+  "version": "2.7.0",
+  "releaseDate": "2026-11-10",
+  "downloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Tutor_Update_v2.7.0.zip",
+  "studentDownloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Student_Update_v2.7.0.zip",
+  "changelog": "Bản phát hành lớn NetLaps v2.7.0 Pro:\n• Nhập tự động đề kiểm tra từ file Word (.doc, .docx) chuẩn cấu trúc Bộ GD&ĐT (Trắc nghiệm ABCD, Đúng/Sai đa ý, Tự luận kèm Bảng đáp án nhận diện tức thì)\n• Xuất danh sách Điểm danh và Bảng điểm thi ra file Excel (.xls) chuẩn UTF-8 100% tiếng Việt không vỡ font, có viền bảng và tiêu đề chuyên nghiệp\n• Tương thích toàn diện hệ điều hành Ubuntu Linux (x86_64 amd64): Hỗ trợ gói .deb và tarball, đồng bộ IP máy chủ qua socket loopback 5059 tức thì, hiển thị biểu tượng chim cánh cụt 🐧 trên Sơ đồ lớp\n• Mở rộng sơ đồ phòng học thích ứng tự động (Adaptive Classroom Grid) hiển thị mượt mà phòng máy từ 30 đến 80+ máy con kèm thanh trượt zoom tỉ lệ thu nhỏ\n• Chế độ chống giật lag và chống treo khi quan sát và thao tác điều khiển máy học sinh từ xa\n• Đẩy cấu hình hàng loạt (IP máy chủ, Mật khẩu phòng, Mã PIN quản trị) đồng loạt từ máy Giáo viên xuống mọi máy con"
+}
