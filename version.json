@@ -1,0 +1,7 @@
+{
+  "version": "2.7.1",
+  "releaseDate": "2026-11-16",
+  "downloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Tutor_Update_v2.7.1.zip",
+  "studentDownloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Student_Update_v2.7.1.zip",
+  "changelog": "Bản cập nhật NetLaps v2.7.1 (16/11/2026):\n• Chặn triệt để 100% trình duyệt Cốc Cốc (browser.exe), Opera GX, Chromium, Tor; tự động diệt tiến trình lách luật ngầm khi bật Chặn Web / Khóa Internet\n• Bổ sung nút truyền tệp đồng loạt cho toàn bộ học sinh (⏩ Gửi TẤT CẢ HS) ngay trong bảng Explorer 2 cột\n• Tối ưu giao diện: Tô màu nổi bật trực quan (Active Highlight) khi nhấp chọn menu bên trái (vạch vàng kim #FACC15, nền xanh đậm #0284C7, chữ trắng in đậm), ô thẻ máy học sinh sáng xanh dịu (#E0F2FE) viền đậm (#0284C7) khi được chọn\n• Thao tác nhấp 1 chạm vào ô máy con trên màn hình giám sát / sơ đồ lớp để chọn hoặc bỏ chọn máy tức thì\n• Tự động tô màu xanh ngọc nổi bật (#BAE6FD) hàng tệp tin và học sinh khi nhấp chọn trong danh sách\n• Tối ưu luồng chụp màn hình Win32 WDA_EXCLUDEFROMCAPTURE chống đơ và chống lặp phản chiếu vô tận (Screen Mirror Loop)"
+}
