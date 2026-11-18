@@ -1,7 +1,7 @@
 {
-  "version": "2.7.6",
+  "version": "2.7.7",
   "releaseDate": "2026-11-18",
-  "downloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Tutor_Update_v2.7.6.zip",
-  "studentDownloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Student_Update_v2.7.6.zip",
-  "changelog": "Bản cập nhật NetLaps v2.7.6 (18/11/2026):\n• [SỬA LỖI TRIỆT ĐỂ] Cơ chế Tự động Cập nhật từ xa (Auto-Update):\n  - Khắc phục hoàn toàn lỗi tệp script .bat dính UTF-8 BOM khiến cmd.exe không tự ghi đè file mới sau khi tải xong.\n  - Giải nén trực tiếp bằng engine C# trước khi tắt ứng dụng, dùng PowerShell Updater tự động chờ tiến trình thoát hẳn và ghi đè file với cơ chế thử lại an toàn, đảm bảo tự cài đặt lên phiên bản mới nhất 100% thành công và khởi động lại ngay.\n• [v2.7.5] Chế độ Khóa Toàn Màn Hình Chống Gian Lận (Exam Kiosk Mode) khi làm bài kiểm tra.\n• [v2.7.4] Giao nhiều đề kiểm tra theo Mã đề & Phát ngẫu nhiên không trùng lặp.\n• [v2.7.3] Tính năng Dọn dẹp Desktop (Clear Desktop) chuẩn NetSupport School."
+  "downloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Tutor_Update_v2.7.7.zip",
+  "studentDownloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Student_Update_v2.7.7.zip",
+  "changelog": "Bản cập nhật NetLaps v2.7.7 (18/11/2026):\n• [SỬA LỖI TRIỆT ĐỂ] Gõ tiếng Việt (UniKey/EVKey) & Ký tự đặc biệt khi điều khiển máy Học sinh và trên máy Giáo viên:\n  - Máy Giáo viên: Gỡ bỏ rào cản UIPI (chuyển app.manifest sang asInvoker) để UniKey/EVKey gõ tiếng Việt bình thường trong mọi ô nhập liệu trên NetLaps Tutor mà không cần chạy UniKey quyền Admin.\n  - Điều khiển từ xa máy Học sinh: Bổ sung cơ chế truyền ký tự Unicode trực tiếp (KEYEVENTF_UNICODE) qua PreviewTextInput kết hợp hàng đợi FIFO tuần tự, loại bỏ hoàn toàn tình trạng nhảy chữ loạn xạ và gõ chuẩn xác 100% tiếng Việt có dấu + ký tự đặc biệt (@, #, $, !, ~...) cùng các phím điều hướng/mở rộng.\n• [v2.7.6] Sửa lỗi cơ chế Auto-Update tự động cài đặt bản mới.\n• [v2.7.5] Chế độ Khóa Toàn Màn Hình Chống Gian Lận (Exam Kiosk Mode) khi làm bài kiểm tra.\n• [v2.7.4] Giao nhiều đề kiểm tra theo Mã đề & Phát ngẫu nhiên không trùng lặp."
 }
