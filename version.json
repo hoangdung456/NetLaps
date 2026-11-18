@@ -1,7 +1,7 @@
 {
-  "version": "2.7.4",
+  "version": "2.7.5",
   "releaseDate": "2026-11-18",
-  "downloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Tutor_Update_v2.7.4.zip",
-  "studentDownloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Student_Update_v2.7.4.zip",
-  "changelog": "Bản cập nhật NetLaps v2.7.4 (18/11/2026):\n• [TÍNH NĂNG MỚI] Giao nhiều đề kiểm tra theo Mã đề & Phát ngẫu nhiên không trùng lặp (Mỗi học sinh 1 đề riêng biệt):\n  - Thi Trắc nghiệm / Tự luận trực tuyến: Nút '📚 Nhập nhiều Mã đề' cho phép tải lên hàng loạt tệp đề Word/Txt theo từng Mã đề; hệ thống tự động xáo trộn phát ngẫu nhiên theo Mã đề kết hợp đảo thứ tự câu hỏi & đáp án A/B/C/D riêng từng học sinh — đảm bảo 100% không 2 học sinh nào đề giống nhau! Bảng điểm & xuất Excel tự động ghi rõ Mã đề của từng em.\n  - Phát đề dạng tệp tin (Word/PDF/Excel/Zip...): Nút '🎲 Phát đề Random' trên thanh Ribbon & trang Truyền File cho phép tải lên nhiều tệp đề theo Mã đề và phát ngẫu nhiên mỗi máy 1 tệp khác nhau hoàn toàn, kèm bảng phân công Mã đề chi tiết.\n• [v2.7.3] Tính năng Dọn dẹp Desktop (Clear Desktop) chuẩn NetSupport School.\n• [v2.7.2] Cơ chế Chống VPN & Proxy vượt tường lửa, Khóa tuyến đường LAN Metric 1, và Sửa tay tên máy học sinh."
+  "downloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Tutor_Update_v2.7.5.zip",
+  "studentDownloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Student_Update_v2.7.5.zip",
+  "changelog": "Bản cập nhật NetLaps v2.7.5 (18/11/2026):\n• [CHỐNG GIAN LẬN THI CỬ] Chế độ Kiosk Toàn Màn Hình khi làm bài kiểm tra:\n  - Cửa sổ bài thi tự động mở Toàn màn hình (Full Screen), luôn nổi trên cùng (Always on Top), che phủ hoàn toàn thanh Taskbar và không thể thu nhỏ/đóng.\n  - Tự động thu nhỏ mọi trình duyệt/ứng dụng đang mở trước đó trên máy học sinh.\n  - Khóa cứng toàn bộ phím tắt thoát & chuyển cửa sổ ở tầng hệ thống (Alt+Tab, Alt+Esc, Alt+F4, Windows Key, Win+D/R/E/Tab, Ctrl+Esc, Ctrl+Shift+Esc, PrintScreen).\n  - Khóa cứng Task Manager trong suốt thời gian làm bài thi, đảm bảo học sinh chỉ thao tác duy nhất trên bài thi cho đến khi nộp bài hoặc Giáo viên thu bài.\n• [v2.7.4] Giao nhiều đề kiểm tra theo Mã đề & Phát ngẫu nhiên không trùng lặp.\n• [v2.7.3] Tính năng Dọn dẹp Desktop (Clear Desktop) chuẩn NetSupport School."
 }
