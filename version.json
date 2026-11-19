@@ -1,7 +1,7 @@
 {
-  "version": "2.7.7",
-  "releaseDate": "2026-11-18",
-  "downloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Tutor_Update_v2.7.7.zip",
-  "studentDownloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Student_Update_v2.7.7.zip",
-  "changelog": "Bản cập nhật NetLaps v2.7.7 (18/11/2026):\n• [SỬA LỖI TRIỆT ĐỂ] Gõ tiếng Việt (UniKey/EVKey) & Ký tự đặc biệt khi điều khiển máy Học sinh và trên máy Giáo viên:\n  - Máy Giáo viên: Gỡ bỏ rào cản UIPI (chuyển app.manifest sang asInvoker) để UniKey/EVKey gõ tiếng Việt bình thường trong mọi ô nhập liệu trên NetLaps Tutor mà không cần chạy UniKey quyền Admin.\n  - Điều khiển từ xa máy Học sinh: Bổ sung cơ chế truyền ký tự Unicode trực tiếp (KEYEVENTF_UNICODE) qua PreviewTextInput kết hợp hàng đợi FIFO tuần tự, loại bỏ hoàn toàn tình trạng nhảy chữ loạn xạ và gõ chuẩn xác 100% tiếng Việt có dấu + ký tự đặc biệt (@, #, $, !, ~...) cùng các phím điều hướng/mở rộng.\n• [v2.7.6] Sửa lỗi cơ chế Auto-Update tự động cài đặt bản mới.\n• [v2.7.5] Chế độ Khóa Toàn Màn Hình Chống Gian Lận (Exam Kiosk Mode) khi làm bài kiểm tra.\n• [v2.7.4] Giao nhiều đề kiểm tra theo Mã đề & Phát ngẫu nhiên không trùng lặp."
+  "version": "2.7.8",
+  "releaseDate": "2026-11-19",
+  "downloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Tutor_Update_v2.7.8.zip",
+  "studentDownloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Student_Update_v2.7.8.zip",
+  "changelog": "Bản cập nhật NetLaps v2.7.8 (19/11/2026):\n• [SỬA LỖI TRIỆT ĐỂ] Chống nhảy máy sang phòng khác khi 2 phòng máy dùng chung Switch LAN:\n  - Loại bỏ cơ chế fallback kết nối nhầm sang phòng khác khi tìm kiếm UDP/TCP trên cùng mạng LAN.\n  - Kiểm tra nghiêm ngặt Mã phòng (RoomId) ngay từ bước dò tìm TCP Subnet Scan, UDP Probe và Handshake.\n  - Loại bỏ cơ chế tự động ghi đè file cấu hình student_config.json sang phòng khác khi sai RoomId, đảm bảo tách biệt tuyệt đối 100% các phòng máy chung Switch.\n• [v2.7.7] Sửa triệt để lỗi gõ tiếng Việt UniKey/EVKey, ký tự đặc biệt và thứ tự phím điều khiển từ xa.\n• [v2.7.6] Sửa lỗi cơ chế Auto-Update tự động cài đặt bản mới.\n• [v2.7.5] Chế độ Khóa Toàn Màn Hình Chống Gian Lận (Exam Kiosk Mode) khi làm bài kiểm tra."
 }
