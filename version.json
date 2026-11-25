@@ -1,7 +1,7 @@
 {
-  "version": "2.8.0",
+  "version": "2.8.1",
   "releaseDate": "2026-11-23",
-  "downloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Tutor_Update_v2.8.0.zip",
-  "studentDownloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Student_Update_v2.8.0.zip",
-  "changelog": "Bản cập nhật NetLaps v2.8.0 (23/11/2026):\n• [TÍNH NĂNG MỚI] Truyền Thư Mục hàng loạt (kể cả thư mục rỗng & thư mục con):\n  - Cho phép Giáo viên chọn thư mục ở bảng Explorer 2 cột hoặc bấm '📁 Gửi Thư mục...' để tạo sẵn thư mục & toàn bộ tệp/thư mục con vào Desktop hoặc ổ D:\\, E:\\ trên tất cả máy Học sinh.\n• [TÍNH NĂNG MỚI] Thu bài từ ổ đĩa / thư mục bất kỳ trên máy Học sinh:\n  - Hỗ trợ nhập đường dẫn thu bài bất kỳ (VD: D:\\BaiTap, E:\\Lop5A, Desktop\\BaiNop hoặc BaiNop — tự quét cả Desktop, D:\\, E:\\, F:\\) và lưu về ổ D:, E: bất kỳ trên máy Giáo viên.\n• [TÍNH NĂNG MỚI] Điều chỉnh Thời gian Tiết học linh hoạt (35p / 40p Tiểu học, 45p THCS/THPT...):\n  - Nhấp vào đồng hồ 'Tiết học' trên thanh tiêu đề hoặc biểu tượng ⚙️ để chọn nhanh 35p, 40p, 45p, 50p hoặc nhập số phút tùy ý.\n• [v2.7.8] Tách biệt tuyệt đối 2 phòng máy dùng chung Switch LAN theo Mã phòng (RoomId)."
+  "downloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Tutor_Update_v2.8.1.zip",
+  "studentDownloadUrl": "https://raw.githubusercontent.com/hoangdung456/NetLaps/main/NetLaps_Student_Update_v2.8.1.zip",
+  "changelog": "Bản cập nhật NetLaps v2.8.1 (23/11/2026):\n• [TÍNH NĂNG MỚI] Truyền Thư Mục hàng loạt (kể cả thư mục rỗng & thư mục con):\n  - Cho phép Giáo viên chọn thư mục ở bảng Explorer 2 cột hoặc bấm '📁 Gửi Thư mục...' để tạo sẵn thư mục & toàn bộ tệp/thư mục con vào Desktop hoặc ổ D:\\, E:\\ trên tất cả máy Học sinh.\n• [TÍNH NĂNG MỚI] Thu bài từ ổ đĩa / thư mục bất kỳ trên máy Học sinh:\n  - Hỗ trợ nhập đường dẫn thu bài bất kỳ (VD: D:\\BaiTap, E:\\Lop5A, Desktop\\BaiNop hoặc BaiNop — tự quét cả Desktop, D:\\, E:\\, F:\\) và lưu về ổ D:, E: bất kỳ trên máy Giáo viên.\n• [TÍNH NĂNG MỚI] Điều chỉnh Thời gian Tiết học linh hoạt (35p / 40p Tiểu học, 45p THCS/THPT...):\n  - Nhấp vào đồng hồ 'Tiết học' trên thanh tiêu đề hoặc biểu tượng ⚙️ để chọn nhanh 35p, 40p, 45p, 50p hoặc nhập số phút tùy ý.\n• [v2.7.8] Tách biệt tuyệt đối 2 phòng máy dùng chung Switch LAN theo Mã phòng (RoomId)."
 }
